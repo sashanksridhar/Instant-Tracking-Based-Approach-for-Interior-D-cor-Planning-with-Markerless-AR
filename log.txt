@@ -1,0 +1,1160 @@
+SLAM 3.00.00
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+VSTRACKER_DANGEROUS
+
+Not save status.
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+AR3D Map Count : 0
+
+Exit Tracking thread
+
+Release camera completed
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Success to save map.
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Success to save map.
+
+VSTRACKER_DANGEROUS
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+set pyramid from gray image
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Release camera completed
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Success to save map.
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Success to save map.
+
+Success to save map.
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Not save status.
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Success to save map.
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Release camera completed
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Not save status.
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Release camera completed
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Not save status.
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Release camera completed
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Not save status.
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Release camera completed
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Success to save map.
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Not save status.
+
+Not save status.
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Not save status.
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Success to save map.
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Success to save map.
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Success to save map.
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Release camera completed
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+VSTRACKER_DANGEROUS
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Success to save map.
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Release camera completed
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Success to save map.
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+SLAM Tracker is initialized
+
+Success to save map.
+
+Exit Tracking thread
+
+SlamTracker::unboot
+
+Enter Tracking thread
+
+Object Tracker is initialized
+
+Start to load 3d maps
+
+set pyramid from gray image
+
+set pyramid from gray image
+
+AR3D Map Count : 1
+
+Exit Tracking thread
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+....... It takes 3.000000 ms to build recognition trees
+
+It's OK!!
+
+emergency situation
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+....... It takes 4.000000 ms to build recognition trees
+
+It's OK!!
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+....... It takes 4.000000 ms to build recognition trees
+
+It's OK!!
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+....... It takes 3.000000 ms to build recognition trees
+
+It's OK!!
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+SLAM 3.00.00
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+....... It takes 7.000000 ms to build recognition trees
+
+It's OK!!
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+....... It takes 4.000000 ms to build recognition trees
+
+It's OK!!
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+....... It takes 3.000000 ms to build recognition trees
+
+It's OK!!
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+....... It takes 2.000000 ms to build recognition trees
+
+It's OK!!
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+....... It takes 4.000000 ms to build recognition trees
+
+It's OK!!
+
+....... It takes 5.000000 ms to build recognition trees
+
+It's OK!!
+
+....... It takes 4.000000 ms to build recognition trees
+
+It's OK!!
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+....... It takes 5.000000 ms to build recognition trees
+
+It's OK!!
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+....... It takes 5.000000 ms to build recognition trees
+
+It's OK!!
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+....... It takes 4.000000 ms to build recognition trees
+
+It's OK!!
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+....... It takes 5.000000 ms to build recognition trees
+
+It's OK!!
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+....... It takes 4.000000 ms to build recognition trees
+
+It's OK!!
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+....... It takes 3.000000 ms to build recognition trees
+
+It's OK!!
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+....... It takes 4.000000 ms to build recognition trees
+
+It's OK!!
+
+emergency situation
+
+remove fakeframe #93, 0 mappoints
+
+....... It takes 5.000000 ms to build recognition trees
+
+It's OK!!
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+....... It takes 3.000000 ms to build recognition trees
+
+It's OK!!
+
+remove fakeframe #126, 0 mappoints
+
+emergency situation
+
+remove fakeframe #296, 0 mappoints
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
+Enter Tracking thread
+
+Instant Tracker is initialized
+
+....... It takes 3.000000 ms to build recognition trees
+
+It's OK!!
+
+Exit Tracking thread
+
+InstantTracker::unboot
+
+Release camera completed
+
