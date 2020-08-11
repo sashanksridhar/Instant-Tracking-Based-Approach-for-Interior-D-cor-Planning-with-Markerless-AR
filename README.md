@@ -5,6 +5,7 @@ Instant Tracking-Based Approach for Interior Décor Planning with Markerless AR,
 Sashank Sridhar, Sowmya Sanagavarapu, <br/>
 2020 Zooming Innovation in Consumer Technologies Conference (ZINC) <br/>
 DOI: 10.1109/ZINC50678.2020.9161789 <br/>
+https://ieeexplore.ieee.org/document/9161789/authors#authors <br/>
 
 final.apk - APK of the app which can be used in android builds. <br/>
 
