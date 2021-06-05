@@ -1,4 +1,4 @@
-# furnituretesting
+# Instant Tracking-Based Approach for Interior Décor Planning with Markerless AR
 
 Please cite the following paper: <br/>
 Instant Tracking-Based Approach for Interior Décor Planning with Markerless AR, <br/>
